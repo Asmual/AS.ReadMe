@@ -14,3 +14,4 @@
 - 🏗️ Focused on scalable backend systems, clean database schema design, and seamless UI/UX.
 - 🔐 Strong expertise in secure authentication systems (BetterAuth, JWT, Google OAuth).
 - 🛠️ Currently expanding expertise with **PostgreSQL & Prisma ORM**.
+OK
