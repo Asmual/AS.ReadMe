@@ -16,3 +16,4 @@
 - 🛠️ Currently expanding expertise with **PostgreSQL & Prisma ORM**.
 OK
 ok
+  one 7
