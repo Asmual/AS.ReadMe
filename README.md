@@ -15,3 +15,4 @@
 - 🔐 Strong expertise in secure authentication systems (BetterAuth, JWT, Google OAuth).
 - 🛠️ Currently expanding expertise with **PostgreSQL & Prisma ORM**.
 OK
+ok
