@@ -8,9 +8,4 @@
 > "I build scalable, real-world web applications with clean UI, robust backend architecture, and performance in mind."
 
 ---
-## 🧑‍💻 About Me
 
-- 💡 Passionate about building full-stack web applications using **TypeScript, Next.js, and Node.js**.
-- 🏗️ Focused on scalable backend systems, clean database schema design, and seamless UI/UX.
-- 🔐 Strong expertise in secure authentication systems (BetterAuth, JWT, Google OAuth).
-- 🛠️ Currently expanding expertise with **PostgreSQL & Prisma ORM**.
