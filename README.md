@@ -4,3 +4,4 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF87&width=450&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;TypeScript+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
+AS
